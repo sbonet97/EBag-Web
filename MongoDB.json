@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5df898a9542fec0adc553299"},"_class":"es.uc3m.tiw.Mensaje","emailreceptor":"andrea@gmail.com","emailemisor":"admin@gmail.com","mensaje":"Bienvenid@ a EBAG!"}
+{"_id":{"$oid":"5df898bf542fec0adc55329a"},"_class":"es.uc3m.tiw.Mensaje","emailreceptor":"angela@gmail.com","emailemisor":"admin@gmail.com","mensaje":"Bienvenid@ a EBAG!"}
+{"_id":{"$oid":"5df898c9542fec0adc55329b"},"_class":"es.uc3m.tiw.Mensaje","emailreceptor":"nike@gmail.com","emailemisor":"admin@gmail.com","mensaje":"Bienvenid@ a EBAG!"}
+{"_id":{"$oid":"5df898d2542fec0adc55329c"},"_class":"es.uc3m.tiw.Mensaje","emailreceptor":"sandra@gmail.com","emailemisor":"admin@gmail.com","mensaje":"Bienvenid@ a EBAG!"}
+{"_id":{"$oid":"5df898d5542fec0adc55329d"},"_class":"es.uc3m.tiw.Mensaje","emailreceptor":"sergi@gmail.com","emailemisor":"admin@gmail.com","mensaje":"Bienvenid@ a EBAG!"}
+{"_id":{"$oid":"5df898d9542fec0adc55329e"},"_class":"es.uc3m.tiw.Mensaje","emailreceptor":"totto@gmail.com","emailemisor":"admin@gmail.com","mensaje":"Bienvenid@ a EBAG!"}
